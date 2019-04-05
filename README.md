@@ -1,3 +1,4 @@
 # IPPP
 Intro to Programming 
-First read me
+
+This is my first read me
